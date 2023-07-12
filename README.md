@@ -1,5 +1,1 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-hack)](https://github.com/anuraghazra/github-readme-stats)
