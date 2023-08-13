@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 
 <h1 align="center">Hi 👋, I'm Tushar Tak</h1>
-<h3 align="center">Backend/DevOps Developer</h3>
+<h3 align="center">Backend Developer / DevOps</h3>
 
 <Br>
 
