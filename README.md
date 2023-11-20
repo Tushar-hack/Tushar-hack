@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 [![Tushar-hack's GitHub | Stats](https://stats.quine.sh/Tushar-hack/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tushar-hack)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-hack&show_icons=true&theme=transparent)
-[![Tushar-hack's GitHub | Languages Over Time](https://stats.quine.sh/Tushar-hack/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tushar-hack)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tushar-hack&theme=darcula&hide_border=false)<br/>
 [![Tushar-hack's GitHub | Languages Over Time](https://stats.quine.sh/Tushar-hack/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Tushar-hack)
 
