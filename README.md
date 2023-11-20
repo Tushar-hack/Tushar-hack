@@ -44,7 +44,7 @@
  <a href="https://linkedin.com/in/tushar-tak" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar-hack"/>
  </a>
- <a href="https://dev.to/Tushar-hack" target="_blank">
+ <a href="https://dev.to/tushartak" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Tushar-hack" />
  </a>
  <a href="https://twitter.com/TusharTak16" target="_blank">
