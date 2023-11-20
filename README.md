@@ -102,7 +102,7 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/web-projects)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/twitter_dev)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=Tushar-hack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/Tushar-hack)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=Tushar-hack.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/Tushar-hack.github.io)
