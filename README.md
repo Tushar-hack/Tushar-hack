@@ -105,7 +105,7 @@
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=twitter_dev&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/twitter_dev)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=movies-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=Tushar-hack&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/Tushar-hack)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=Tushar-hack.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/Tushar-hack.github.io)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Tushar-hack&repo=100DaysOfPython&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Tushar-hack/Tushar-hack.github.io)
 
 <p align="left">
   <a href="https://github.com/Tushar-hack?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
