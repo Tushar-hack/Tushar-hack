@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Tushar-hack.com">Tushar Tak</a></b>
+                <b><a target="_blank" href="">Tushar Tak</a></b>
         </samp>
 </h3>
 
@@ -65,9 +65,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Tushar-hack.dev@gmail.com<br/><br/>
+ ✌️ &emsp; Curiosity is a wonderful trait that drives learning, exploration, and discovery.<br/><br/>
+ ❤️ &emsp; I Love Night Coding Sessions!!<br/><br/>
+ 📧 &emsp; Reach me anytime: tushartak861@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Tushar-hack/Tushar-hack/issues)
 
 </p>
